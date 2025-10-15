@@ -1,3 +1,3 @@
 # ShedCardGame
-This has a two classes for card and deck, with multiple functions to arrange the cards, create and delete cards ... \n
+This has a two classes for card and deck, with multiple functions to arrange the cards, create and delete cards ... 
 The game is a recreation of this card game https://en.wikipedia.org/wiki/Shithead_(card_game)
